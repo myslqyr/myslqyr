@@ -7,4 +7,6 @@ I'm myslqyr(This name doesn't have any special meaning),currently studying at Ce
 
 - I’m currently working on my nes emulator as my graduation project.
   
-[![myslqyr's GitHub stats](https://readme-stat-kappa.vercel.app/api?username=myslqyr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![myslqyr's GitHub stats](https://readme-stat-kappa.vercel.app/api?username=myslqyr&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myslqyr&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0D1117&count_private=true)
