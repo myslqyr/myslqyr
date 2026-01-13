@@ -7,8 +7,7 @@ I'm myslqyr(This name doesn't have any special meaning),currently studying at Ce
 
 - I’m currently working on my nes emulator as my graduation project.
 
-[![myslqyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=myslqyr)](https://github.com/anuraghazra/github-readme-stats)
-
+[![myslqyr's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=myslqyr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **myslqyr/myslqyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
