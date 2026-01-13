@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi 👋
+I'm myslqyr(This name doesn't have any special meaning),currently studying at Central South University, majoring in Computer Science and Technology.
 
+- I’m interested in open source operating system ,linux kernel and computer architecture.
+
+- I once worked as a kernel development intern in the deepin kernel sig.
+
+- I’m currently working on my nes emulator as my graduation project.
+  
 <!--
 **myslqyr/myslqyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
