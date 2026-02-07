@@ -5,5 +5,3 @@ I'm myslqyr(This name doesn't have any special meaning),currently studying at Ce
 
 - I once worked as a kernel development intern in Deepin kernel sig.
 
-- I’m currently working on my nes emulator as my graduation project.
-  
