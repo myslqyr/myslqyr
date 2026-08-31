@@ -1,7 +1,12 @@
 ## Hi 👋
-I'm myslqyr(This name doesn't have any special meaning),currently studying at Central South University, majoring in Computer Science and Technology.
+Hi, I'm myslqyr. I'm currently a Master's student majoring in Software Engineering at ISRC, ISCAS.
 
-- I’m interested in open source operating system ,linux kernel and computer architecture.
+- I graduated from Central South University in 2026 with a bachelor's degree in Computer Science and Technology.
 
-- I once worked as a kernel development intern in deepin kernel sig.
+- I’m interested in open source operating system, linux kernel and computer architecture.
 
+- I completed an internship as a Kernel R&D Engineer at UnionTech (Wuhan branch).
+
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myslqyr&show_icons=true&theme=radial)
