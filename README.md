@@ -7,6 +7,3 @@ Hi, I'm myslqyr. I'm currently a Master's student majoring in Software Engineeri
 
 - I completed an internship as a Kernel R&D Engineer at UnionTech (Wuhan branch).
 
-### 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myslqyr&show_icons=true&theme=radial)
